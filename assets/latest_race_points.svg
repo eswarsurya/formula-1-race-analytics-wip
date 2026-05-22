@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="460" viewBox="0 0 820 460" role="img" aria-labelledby="title desc">
+  <title id="title">Latest Generated Race Points</title>
+  <desc id="desc">Bar chart showing points from the latest generated Formula 1 race output in the repository.</desc>
+  <rect width="820" height="460" fill="#f8fafc"/>
+  <text x="40" y="55" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111827">Latest Generated Race Points</text>
+  <text x="40" y="85" font-family="Arial, sans-serif" font-size="14" fill="#4b5563">Japanese Grand Prix, Suzuka - repository output snapshot</text>
+  <text x="40" y="135" font-family="Arial" font-size="14" fill="#111827">ANT</text><rect x="95" y="116" width="500" height="28" fill="#2563eb" rx="4"/><text x="615" y="136" font-family="Arial" font-size="14" fill="#111827">25 pts</text>
+  <text x="40" y="180" font-family="Arial" font-size="14" fill="#111827">PIA</text><rect x="95" y="161" width="360" height="28" fill="#0f766e" rx="4"/><text x="615" y="181" font-family="Arial" font-size="14" fill="#111827">18 pts</text>
+  <text x="40" y="225" font-family="Arial" font-size="14" fill="#111827">LEC</text><rect x="95" y="206" width="300" height="28" fill="#7c3aed" rx="4"/><text x="615" y="226" font-family="Arial" font-size="14" fill="#111827">15 pts</text>
+  <text x="40" y="270" font-family="Arial" font-size="14" fill="#111827">RUS</text><rect x="95" y="251" width="240" height="28" fill="#f59e0b" rx="4"/><text x="615" y="271" font-family="Arial" font-size="14" fill="#111827">12 pts</text>
+  <text x="40" y="315" font-family="Arial" font-size="14" fill="#111827">NOR</text><rect x="95" y="296" width="200" height="28" fill="#0891b2" rx="4"/><text x="615" y="316" font-family="Arial" font-size="14" fill="#111827">10 pts</text>
+  <text x="40" y="390" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">This visual shows the latest generated CSV output committed to the repository.</text>
+</svg>
